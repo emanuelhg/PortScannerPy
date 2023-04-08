@@ -12,4 +12,9 @@ Este es un script de Python que realiza un escaneo de puertos de una dirección 
 8.  Guarda la variable `resultado` en un archivo JSON en el equipo del usuario.
 
 **Capturas:**
-![](https://gcdnb.pbrd.co/images/BXhx9cZav44J.png?o=1)![](https://gcdnb.pbrd.co/images/31fvlrRXZfe6.png?o=1)![](https://gcdnb.pbrd.co/images/gwGmEI8NaQQN.png?o=1)
+
+<p align="center">
+  <img src="https://gcdnb.pbrd.co/images/BXhx9cZav44J.png?o=1" />
+  <img src="https://gcdnb.pbrd.co/images/31fvlrRXZfe6.png?o=1" />
+  <img src="https://gcdnb.pbrd.co/images/gwGmEI8NaQQN.png?o=1" />
+</p>
